@@ -1,0 +1,86 @@
+.footer {
+  margin-inline: 27%;
+  margin-block-start: 10%;
+}
+
+.btn-costumize {
+  margin-inline-start: 2%;
+  padding: 3px;
+  margin-block-start: 4%;
+  margin-block-end: 2%;
+}
+
+footer a {
+  font-size: 0.8rem;
+}
+
+footer span {
+  margin-inline-start: 2%;
+  font-size: 0.7rem;
+  margin-block-end: 3%;
+}
+
+body {
+  position: relative;
+}
+
+main {
+  margin-inline: 29%;
+  border-bottom: 1px solid aliceblue;
+  position: relative;
+}
+
+.img-cont {
+  position: relative;
+}
+
+.img-cont img {
+  position: relative;
+}
+
+.svg {
+  position: absolute;
+  top: 23%;
+  left: 5%;
+  transform: translate(-79%, -45%);
+  font-size: 31px;
+}
+
+.section-edit {
+  display: flex;
+  margin-top: 5%;
+  position: relative;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+.h4-rating {
+  margin-right: 40%;
+}
+
+.btn-costum {
+  margin-inline-end: auto;
+  /* margin-inline-start: 6%; */
+}
+
+.btn-edit {
+  margin-inline-end: auto;
+
+  padding-inline: 27px;
+  padding-block: 5px;
+}
+
+.footer-buttons {
+  margin-inline-start: 30%;
+  margin-inline-end: 35%;
+}
+
+.section-buttons {
+  margin-inline: auto;
+}
+
+.dropdown-toggle {
+  color: aliceblue !important;
+}
